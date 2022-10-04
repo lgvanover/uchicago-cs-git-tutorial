@@ -1,2 +1,1 @@
-
-# uchicago-cs-git-tutorial
+Lindsay Vanover lgvanover
